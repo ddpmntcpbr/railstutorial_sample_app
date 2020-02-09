@@ -1,3 +1,5 @@
+## URL
+https://fast-basin-36286.herokuapp.com/
 
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
